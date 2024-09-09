@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://crastrate.github.io/sitemap.html.gz
+Sitemap: https://crastrate.github.io/app/sitemap.html.gz
+Sitemap: https://crastrate.github.io/assets/sitemap.html.gz
+Sitemap: https://crastrate.github.io/css/sitemap.html.gz
+Sitemap: https://crastrate.github.io/includes/sitemap.html.gz
+Sitemap: https://crastrate.github.io/item/sitemap.html.gz
+Sitemap: https://crastrate.github.io/src/sitemap.html.gz
